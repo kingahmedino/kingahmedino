@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mohammedoluwasesan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QRdM9nkWhDovA4kGxBAzDrscCzTCWK3o/view?usp=sharing](https://drive.google.com/file/d/1QRdM9nkWhDovA4kGxBAzDrscCzTCWK3o/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zA96MWbhcbfx8uZJUh3tQRbiKc7VC3hS/view?usp=sharing)
 
 - ⚡ Fun fact **I am Google Certified.**
 
