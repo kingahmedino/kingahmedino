@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kingahmedino" target="blank"><img src="https://img.shields.io/twitter/follow/kingahmedino?logo=twitter&style=for-the-badge" alt="kingahmedino" /></a> </p>
 
-- 🔭 I’m currently working on [Crowdcoin](https://github.com/kingahmedino/crowdcoin)
+- 🔭 I’m currently working on [Memento](https://github.com/kingahmedino/memento) and [BlockStake](https://github.com/kingahmedino/block-stake-ui)
 
 - 🌱 I’m currently learning **Web 3.0**
 
